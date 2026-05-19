@@ -74,8 +74,8 @@ Current areas I focus on:
 ## GitHub Overview
 
 <p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AFurkanOcel&theme=github" alt="GitHub profile summary" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AFurkanOcel&theme=github" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AFurkanOcel&theme=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AFurkanOcel&theme=github" alt="Repositories per language" />
 </p>
 
 ---
