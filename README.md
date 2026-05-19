@@ -1,4 +1,4 @@
-﻿<h1 align="center">A. Furkan Ocel</h1>
+<h1 align="center">A. Furkan ÖCEL</h1>
 
 <p align="center">
 Software developer focused on desktop applications, game development, backend systems, simulations, and educational computer science projects.
@@ -9,7 +9,7 @@ Software developer focused on desktop applications, game development, backend sy
     <img src="https://komarev.com/ghpvc/?username=AFurkanOcel&style=flat-square&color=0e75b6" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/afurkanocel/">
-    <img src="https://img.shields.io/badge/LinkedIn-A.%20Furkan%20Ocel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-A.%20Furkan%20%C3%96CEL-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:furkanocel5@gmail.com">
     <img src="https://img.shields.io/badge/Email-furkanocel5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -79,7 +79,6 @@ Current areas I focus on:
 
 <p align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AFurkanOcel&theme=github" alt="Repositories per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AFurkanOcel&theme=github" alt="Most committed languages" />
 </p>
 
 ---
