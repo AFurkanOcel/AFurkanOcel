@@ -71,41 +71,15 @@ Current areas I focus on:
 
 ---
 
-## Featured Projects
-
-| Project | Description | Main Technologies |
-|--------|-------------|-------------------|
-| [Barn Management](https://github.com/AFurkanOcel/Barn_Management) | Barn management system with authentication, inventory, animal records, products, sales, logging, and layered architecture. | C#, .NET Framework, WinForms, Entity Framework, SQL Server |
-| [SysScore](https://github.com/AFurkanOcel/SysScore) | AI-supported security scoring and live monitoring platform for Pardus/Linux systems. | Python Agent, ASP.NET Core Web API, SQL Server, Docker, Chart.js |
-| [FileAnalyzer](https://github.com/AFurkanOcel/FileAnalyzer) | File analysis tool with shared Core, Console, and Windows Forms interfaces for TXT, DOCX, and PDF files. | C#, .NET Framework, WinForms, Console App |
-| [Realtime Syntax Highlighter PCAL](https://github.com/AFurkanOcel/Realtime_Syntax_Highlighter_PCAL) | Desktop editor for PCAL, a custom educational mini-language, with token highlighting, syntax validation, and expression evaluation. | Python, Tkinter, Custom Lexer, Recursive Descent Parser |
-| [Hamming SEC-DED Simulator](https://github.com/AFurkanOcel/Hamming_SEC-DED_Simulator) | Hamming code simulator for binary encoding, syndrome-based error detection, and single-bit correction. | Python, Tkinter, Error Detection & Correction |
-| [Advanced Solar System Simulator](https://github.com/AFurkanOcel/Advanced_Solar_System_Simulator) | Interactive 3D solar system simulator with orbital motion, axial tilt, rotation, bilingual controls, and textured celestial bodies. | Python, VPython |
-| [Parallel Point In Polygon](https://github.com/AFurkanOcel/Parallel_Point_In_Polygon) | Parallel point-in-polygon detection with benchmarking and speedup analysis. | Java, Multithreading |
-| [Node Localization Using Mamdani Fuzzy Inference Model](https://github.com/AFurkanOcel/Node_Localization_Using_Mamdani_Fuzzy_Inference_Model) | Node localization project using a Mamdani-type fuzzy logic model for wireless sensor networks. | TypeScript, Fuzzy Logic |
-
----
-
-## Game Development Projects
-
-| Project | Description | Platform / Tech |
-|--------|-------------|-----------------|
-| [Angel Survivor](https://github.com/AFurkanOcel/Angel_Survivor) | 3D Android survival game with meteor-dodging gameplay, local two-player mode, and 8-language support. | Unity, C#, Android |
-| [Alan](https://github.com/AFurkanOcel/Alan) | Two-player competitive tile-capture game on a 6x6 grid. | Unity, C#, PC, Android |
-| [Step On The Gas](https://github.com/AFurkanOcel/Step_On_The_Gas) | 3D endless driving game with score mechanics, multiple camera modes, and day/night environments. | Unity, C# |
-| [Maze Of The Ghost](https://github.com/AFurkanOcel/Maze_Of_The_Ghost) | First-person survival horror game with ghost AI, resource management, and desktop/WebGL deployment. | Unity, C# |
-| [Super Knight](https://github.com/AFurkanOcel/Super_Knight) | 2D pixel-art action platformer with sword combat, enemies, healing resources, and a boss fight. | Unity, C# |
-| [Easy Platform](https://github.com/AFurkanOcel/Easy_Platform) | 2D platformer with handcrafted levels, progression, collectibles, and hazards. | Unity, C# |
-| [Running Penguin](https://github.com/AFurkanOcel/Running_Penguin) | 2D endless runner with obstacle avoidance, score tracking, and arcade-style gameplay. | Unity, C# |
-| [Yummy Fruits](https://github.com/AFurkanOcel/Yummy_Fruits) | 3D arcade fruit-collection game with multiple maps and timed score-based rounds. | Unity, C# |
-
----
-
-## GitHub Analytics
+## GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AFurkanOcel&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFurkanOcel&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AFurkanOcel&theme=github" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AFurkanOcel&theme=github" alt="Repositories per language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AFurkanOcel&theme=github" alt="Most committed languages" />
 </p>
 
 ---
