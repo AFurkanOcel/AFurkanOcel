@@ -14,6 +14,9 @@ Software developer focused on desktop applications, game development, backend sy
   <a href="mailto:furkanocel5@gmail.com">
     <img src="https://img.shields.io/badge/Email-furkanocel5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="./AhmetFurkan%C3%96cel_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-455A64?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
 </p>
 
 ---
