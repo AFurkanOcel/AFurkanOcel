@@ -69,7 +69,6 @@ Current areas I focus on:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Multithreading-FF8C00?style=flat-square" />
   <img src="https://img.shields.io/badge/Operating%20Systems-455A64?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fuzzy%20Logic-6A1B9A?style=flat-square" />
 </p>
 
 ---
