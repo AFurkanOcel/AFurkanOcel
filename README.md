@@ -25,13 +25,14 @@ Software developer focused on desktop applications, game development, backend sy
 
 I build practical software projects across multiple domains, with a strong focus on learning by implementing complete systems from scratch.
 
-My work includes C# desktop applications, Unity games, Python simulations and educational tools, backend APIs, operating system concept simulations, and algorithm-focused projects.
+My work includes C# desktop applications, Unity games, Python simulations and educational tools, backend APIs, web interfaces, operating system concept simulations, and algorithm-focused projects.
 
 Current areas I focus on:
 
 * Desktop application development with **C#**, **.NET Framework**, **Windows Forms**, and **Entity Framework**
 * Game development with **Unity** and **C#**
 * Backend development with **ASP.NET Core Web API** and **SQL Server**
+* Web interface development with **JavaScript**, **HTML**, and **CSS**
 * Python-based tools, simulations, and GUI applications
 * Algorithms, multithreading, operating systems, and computer science fundamentals
 
@@ -46,6 +47,9 @@ Current areas I focus on:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" />
 </p>
 
 ### Frameworks, Platforms & Libraries
