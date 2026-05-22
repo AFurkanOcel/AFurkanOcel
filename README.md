@@ -80,7 +80,7 @@ Current areas I focus on:
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AFurkanOcel&theme=github" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFurkanOcel&layout=compact&langs_count=8&theme=default" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AFurkanOcel&theme=github" alt="Most commit language" />
 </p>
 
 ---
