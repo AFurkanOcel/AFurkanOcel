@@ -38,18 +38,6 @@ Current areas I focus on:
 
 ---
 
-## Featured Project
-
-### MyTripStoria
-
-A full-stack travel planning and memory keeping platform built with **ASP.NET Core Web API**, **Nuxt 3**, **Vue 3**, **TypeScript**, **Entity Framework Core**, **SQL Server**, and **Leaflet**.
-
-MyTripStoria allows users to register, manage profiles, plan future trips, archive completed vacations, upload premium trip photos, and visualize travel history on an interactive world map.
-
-Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel/MyTripStoria)
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -91,6 +79,26 @@ Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel
   <img src="https://img.shields.io/badge/Multithreading-FF8C00?style=flat-square" />
   <img src="https://img.shields.io/badge/Operating%20Systems-455A64?style=flat-square" />
 </p>
+
+---
+
+## Featured Projects
+
+### SysScore
+
+AI-supported security scoring and monitoring platform for Pardus/Linux systems with a Python agent, ASP.NET Core backend, SQL Server persistence, and live dashboard visualizations.
+
+**Tech:** Python, ASP.NET Core Web API, Entity Framework Core, SQL Server, Docker, Chart.js, Ollama
+
+Repository: [github.com/AFurkanOcel/SysScore](https://github.com/AFurkanOcel/SysScore)
+
+### MyTripStoria
+
+Full-stack travel planning and memory keeping platform with authentication, trip records, premium photo uploads, and an interactive world map.
+
+**Tech:** ASP.NET Core Web API, Nuxt 3, Vue 3, TypeScript, Entity Framework Core, SQL Server, Leaflet
+
+Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel/MyTripStoria)
 
 ---
 
