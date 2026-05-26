@@ -88,7 +88,7 @@ Current areas I focus on:
 
 A full-stack travel planning and memory keeping platform for organizing future trips and preserving completed vacations. It includes account management, trip records, premium photo uploads, and an interactive world map for visualizing planned and completed journeys.
 
-**Tech:** **ASP.NET Core Web API**, **Nuxt 3**, **Vue 3**, **TypeScript**, **Entity Framework Core**, **SQL Server**, **Leaflet**
+**ASP.NET Core Web API**, **Nuxt 3**, **Vue 3**, **TypeScript**, **Entity Framework Core**, **SQL Server**, **Leaflet**
 
 Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel/MyTripStoria)
 
@@ -96,7 +96,7 @@ Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel
 
 An AI-supported security scoring and monitoring platform designed for Pardus/Linux systems. It collects system metrics through an agent, calculates a professional security score, stores historical records, and explains score changes with fallback-first AI-supported analysis.
 
-**Tech:** **Python**, **ASP.NET Core Web API**, **Entity Framework Core**, **SQL Server**, **Docker**, **Chart.js**, **Ollama**
+**Python**, **ASP.NET Core Web API**, **Entity Framework Core**, **SQL Server**, **Docker**, **Chart.js**, **Ollama**
 
 Repository: [github.com/AFurkanOcel/SysScore](https://github.com/AFurkanOcel/SysScore)
 
