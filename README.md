@@ -84,21 +84,21 @@ Current areas I focus on:
 
 ## Featured Projects
 
-### SysScore
-
-AI-supported security scoring and monitoring platform for Pardus/Linux systems with a Python agent, ASP.NET Core backend, SQL Server persistence, and live dashboard visualizations.
-
-**Tech:** Python, ASP.NET Core Web API, Entity Framework Core, SQL Server, Docker, Chart.js, Ollama
-
-Repository: [github.com/AFurkanOcel/SysScore](https://github.com/AFurkanOcel/SysScore)
-
 ### MyTripStoria
 
-Full-stack travel planning and memory keeping platform with authentication, trip records, premium photo uploads, and an interactive world map.
+A full-stack travel planning and memory keeping platform for organizing future trips and preserving completed vacations. It includes account management, trip records, premium photo uploads, and an interactive world map for visualizing planned and completed journeys.
 
-**Tech:** ASP.NET Core Web API, Nuxt 3, Vue 3, TypeScript, Entity Framework Core, SQL Server, Leaflet
+**Tech:** **ASP.NET Core Web API**, **Nuxt 3**, **Vue 3**, **TypeScript**, **Entity Framework Core**, **SQL Server**, **Leaflet**
 
 Repository: [github.com/AFurkanOcel/MyTripStoria](https://github.com/AFurkanOcel/MyTripStoria)
+
+### SysScore
+
+An AI-supported security scoring and monitoring platform designed for Pardus/Linux systems. It collects system metrics through an agent, calculates a professional security score, stores historical records, and explains score changes with fallback-first AI-supported analysis.
+
+**Tech:** **Python**, **ASP.NET Core Web API**, **Entity Framework Core**, **SQL Server**, **Docker**, **Chart.js**, **Ollama**
+
+Repository: [github.com/AFurkanOcel/SysScore](https://github.com/AFurkanOcel/SysScore)
 
 ---
 
